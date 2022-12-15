@@ -1,4 +1,4 @@
-<?php
+    <?php
     /* Uso de Sesiones en PHP */
     session_start(); // Iniciar la sesión
    $nom = $_SESSION["nombre"];
